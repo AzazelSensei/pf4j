@@ -10,6 +10,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 #### Changed
 
 #### Added
+- [#291]: Document when `PluginManager.unloadPlugin` returns `false`
 
 #### Removed
 
@@ -701,6 +702,7 @@ The changes to the extensions index, [#697] and [#698], are made by the annotati
 [#294]: https://github.com/pf4j/pf4j/issues/294
 [#293]: https://github.com/pf4j/pf4j/issues/293
 [#292]: https://github.com/pf4j/pf4j/issues/292
+[#291]: https://github.com/pf4j/pf4j/issues/291
 [#288]: https://github.com/pf4j/pf4j/pull/288
 [#287]: https://github.com/pf4j/pf4j/pull/287
 [#278]: https://github.com/pf4j/pf4j/pull/278
